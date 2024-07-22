@@ -22,20 +22,14 @@ This repository contains code and models for analyzing sentiments expressed in t
 
    ```
    git clone https://github.com/sanchitno1/twitter_sentiment_analysis.git
-
 2. Navigate to the project directory
-
    ```
    cd twitter_sentiment_analysis
-
 3. Run Jupyter Notebook cells
 4. We wil get the best_model.pkl file in the main repository.
 5. To run streamlit application.
-
    ```
    streamlit run app.py
-
-
 ### Contributors
 
 1. Anmol Saigal (G23AI1003)
