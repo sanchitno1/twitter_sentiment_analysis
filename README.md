@@ -30,8 +30,3 @@ This repository contains code and models for analyzing sentiments expressed in t
 5. To run streamlit application.
    ```
    streamlit run app.py
-### Contributors
-
-1. Anmol Saigal (G23AI1003)
-2. Apoorva Panigrahi (G23AI1055)
-3. Sanchit Agarwal (G23AI1033)
